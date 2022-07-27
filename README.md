@@ -26,3 +26,16 @@
 
 
    </ul>
+
+
+</main>
+<footer>
+   <span>CopyRight</span>
+   <br>
+   <ul>
+   <li><img src="./2021_Facebook_icon.svg.png" alt="HTML5 Icon" width="28" height="28">facebook</li>
+   <li><img src="./367769.png" alt="HTML5 Icon" width="28" height="28">intagram</li>
+ </ul>
+</footer>
+</body>
+</html>
