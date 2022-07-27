@@ -1,20 +1,28 @@
-# Healthy Calorie
-## To Make The Life Healther
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <header>
+        <nav>
+           <ul>
+          <li><a href="./index.html">Home</a></li>
+           <li><a href= "./about.html">About</a></li>
+           </ul>
+        </nav>
+        <img src="./100-Calories-Snacks.jpg" alt="HTML5 Icon" width="128" height="128">
+        <h1> Healthy Calorie </h1>
+        <h3>To Make The Life Healther</h3>
+    </header>
+<main>
+   <h3>Menu</h3>
+    <ul>
+     <li><img src="./Mint-Lemonade-TheTravelBite.com-16-scaled-735x980.jpg" alt="HTML5 Icon" width="128" height="128">drinks</li>
+     <li><img src="./9bb8c0628fb1f1f2ac58608c1988802e_w750_h500.jpg" alt="HTML5 Icon" width="128" height="128">salats</li>
 
-> # Menu
 
-## Saltes
-![arbian](9bb8c0628fb1f1f2ac58608c1988802e_w750_h500.jpg) ### 1. Arabian
-![fatoch](./8cc25ce24be470ebe359fb7ac20d3cdf_w750_h500.jpg)
- ### 2. Fattosh
-
-![tabola](./e7ef0d31adac2f8aaf26a096f99c4e0f17e6717b.jpg)
- ### 3. tabola
-
-## Drinks
-
-![lemonandmint](./Mint-Lemonade-TheTravelBite.com-16-scaled-735x980.jpg)
-### 1. Mint Lemonade
-
-![orange](./Orange-Juice-1-of-1.jpeg)
-### 2. Orange
+   </ul>
